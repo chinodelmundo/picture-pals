@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 180" role="img" aria-labelledby="title description">
+  <title id="title">Picture coming soon</title>
+  <desc id="description">A simple sun and hills placeholder</desc>
+  <rect width="240" height="180" rx="18" fill="#fff4cf"/>
+  <circle cx="184" cy="48" r="24" fill="#ffcb45"/>
+  <path d="M0 139 61 81l48 44 34-29 97 84H0Z" fill="#69b578"/>
+  <path d="m0 153 58-40 42 34 39-26 67 59H0Z" fill="#3f8f6b" opacity=".85"/>
+  <circle cx="76" cy="55" r="18" fill="#fff" opacity=".9"/>
+  <circle cx="98" cy="53" r="24" fill="#fff" opacity=".9"/>
+  <circle cx="122" cy="58" r="16" fill="#fff" opacity=".9"/>
+</svg>
